@@ -1,3 +1,3 @@
 FROM nginx
 
-RUN touch /tmp/test5
+RUN touch /tmp/test6
